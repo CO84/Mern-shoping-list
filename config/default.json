@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://username:password@devconnecter-e3phl.mongodb.net/mern_shopping?retryWrites=true",
+  "jwtSecret": "sl_myJwtSecret"
+}

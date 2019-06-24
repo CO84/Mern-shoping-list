@@ -1,0 +1,43 @@
+.remove-btn {
+  margin-right: 0.7rem;
+}
+
+.fade-enter {
+  opacity: 0.01;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0.01;
+  transition: opacity 1000ms ease-in;
+}
+
+.shopping-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.col-sm-3 {
+  margin-bottom: 5px;
+  min-width: 16rem;
+  max-width: 20rem;
+  text-align: center;
+}
+.card-body {
+  background-color: steelblue;
+  color: #ffffff;
+  min-height: 11rem;
+}
+
+.card-title {
+  font-size: 1.4em;
+  font-weight: 600;
+  color: yellow;
+}
